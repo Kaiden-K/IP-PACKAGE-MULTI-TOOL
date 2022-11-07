@@ -14,3 +14,7 @@ LOIC
 You can run the ip pinger and then hit the ip with LOIC make sure u only hit your own ip
 and whatever you do with package is not my fault 
 be careful please also subscribe to my channel as this takes time to make!!!
+
+
+ALSO KNOW BULL SHIT IPS AINT FUN SO NO STUPID PICTURE THAT ME THIS SHII LOOK CALL BECUASE ITS NOT
+AND ITS NOT TO BE MESSED AROUND WITH!

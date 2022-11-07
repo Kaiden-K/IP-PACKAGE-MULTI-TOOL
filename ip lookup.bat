@@ -9,22 +9,7 @@ if exist "%temp%\response.txt" del "%temp%\response.txt" /f /q /s >nul
 :menu
 cls
 echo Ip lookup/
-cls
-echo.
-echo                ██╗██████╗     
-echo                ██║██╔══██╗    
-echo                ██║██████╔╝    
-echo                ██║██╔═══╝     
-echo                ██║██║         
-echo                ╚═╝╚═╝ 
-echo.
-echo                ██╗      ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██████╗ 
-echo                ██║     ██╔═══██╗██╔═══██╗██║ ██╔╝██║   ██║██╔══██╗
-echo                ██║     ██║   ██║██║   ██║█████╔╝ ██║   ██║██████╔╝
-echo                ██║     ██║   ██║██║   ██║██╔═██╗ ██║   ██║██╔═══╝ 
-echo                ███████╗╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝██║     
-echo                ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     
-echo.                                                           
+cls                                                          
 set ip=127.0.0.1
 set /p ip=Put IP here: 
 echo sUrl = "http://ipinfo.io/%ip%/json" > %temp%\%webclient%.vbs
